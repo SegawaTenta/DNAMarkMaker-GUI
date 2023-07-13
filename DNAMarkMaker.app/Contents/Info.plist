@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>MarkMaker</string>
+	<string>DNAMarkMaker</string>
 	<key>CFBundleExecutable</key>
-	<string>MacOS/MarkMaker</string>
+	<string>MacOS/DNAMarkMaker</string>
 	<key>CFBundleIconFile</key>
-	<string>ascve-f0ot5.icns</string>
+	<string>DNAMarkMaker.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>MarkMaker</string>
+	<string>DNAMarkMaker</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>MarkMaker</string>
+	<string>DNAMarkMaker</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
