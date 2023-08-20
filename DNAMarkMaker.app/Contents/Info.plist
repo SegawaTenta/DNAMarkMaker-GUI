@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>DNAMarkMaker</string>
 	<key>CFBundleExecutable</key>
-	<string>MacOS/DNAMarkMaker</string>
+	<string>DNAMarkMaker</string>
 	<key>CFBundleIconFile</key>
 	<string>DNAMarkMaker.icns</string>
 	<key>CFBundleIdentifier</key>
